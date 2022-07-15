@@ -1,0 +1,22 @@
+.card-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+.card-item:hover {
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.product-image {
+  width: 100%;
+  object-fit: contain;
+  height: 200px;
+}
+
+.btn-primary a {
+  color: white;
+  text-decoration: none;
+}

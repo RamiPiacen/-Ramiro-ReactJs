@@ -1,0 +1,10 @@
+.items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.h1-category {
+  text-align: center;
+  text-transform: uppercase;
+}

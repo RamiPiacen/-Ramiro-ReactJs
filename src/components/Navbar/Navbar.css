@@ -1,0 +1,94 @@
+.shopping-cart-img-container img {
+  width: 100%;
+}
+
+.shopping-cart-img-container {
+  width: 10%;
+  margin: 0;
+  padding: 0;
+}
+
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  width: 25%;
+  right: 0;
+  left: 1115px;
+}
+@media only screen and (max-width: 419px) {
+  .css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+    width: 70%;
+    left: 90px;
+  }
+}
+
+.shopping-cart-info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.shopping-cart-info-container p {
+  margin: 0;
+  font-size: 1rem;
+  margin-right: 10%;
+  font-weight: 700;
+}
+.shopping-cart-info-container span {
+  font-size: 15px;
+  margin: 10px;
+}
+
+.shopping-cart-img-container {
+  width: 25%;
+}
+
+.shopping-cart-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shopping-cart-footer p,
+button {
+  margin: 0;
+}
+
+.empty-cart {
+  text-align: center;
+}
+
+.span-qnt {
+  margin-left: 10px;
+  font-weight: 700;
+  color: white;
+}
+
+.link-to {
+  padding: 10px 10px;
+}
+
+#segmented-button-dropdown-1 {
+  background-color: #1976d2;
+  color: white;
+}
+#root > div > header > div > div > div.MuiBox-root.css-1t6c9ts > div > a {
+  color: white;
+  border: 0;
+}
+
+.dropdown,
+.btn-group {
+  align-items: center;
+  border: 0;
+}
+
+#segmented-button-dropdown-1 {
+  border: 0;
+}
+
+#segmented-button-dropdown-1,
+#root > div > header > div > div > div.MuiBox-root.css-1t6c9ts > div > a:hover {
+  background-color: transparent;
+}
+#root > div > header > div > div > div.MuiBox-root.css-1t6c9ts > div > a {
+  font-size: 0.875rem;
+}
